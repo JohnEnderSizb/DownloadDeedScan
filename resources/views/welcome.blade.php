@@ -30,10 +30,10 @@
             <a href="http://www.creative-tim.com">
                 <div class="logo-container">
                     <div class="logo">
-                        <img src="assets/img/new_logo.png" alt="Creative Tim Logo">
+                        <img src="logo.png" alt="DeedScan Logo">
                     </div>
                     <div class="brand">
-                        Creative Tim
+                        DeedScan
                     </div>
                 </div>
             </a>
