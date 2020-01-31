@@ -73,9 +73,9 @@
             <div class="row">
                 <div class="col-md-7">
                     <div class="description">
-                        <h2>Showcase 1 - Be serious about your music.</h2>
+                        <h2>DeedScan</h2>
                         <br>
-                        <h5>PlayIT! will become your favorite. It offers a list of features long enough that we could sit here talking about it all day. But, if you're serious about your music, you should definitely take a look. Find us one every market!</h5>
+                        <h5>Merging the law with the future.</h5>
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
