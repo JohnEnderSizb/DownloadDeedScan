@@ -256,22 +256,7 @@
                 <ul>
                     <li>
                         <a href="#">
-                            Home
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            Company
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            Portfolio
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            Blog
+                            Back To Top
                         </a>
                     </li>
                 </ul>
@@ -288,7 +273,7 @@
                 </a>
             </div>
             <div class="copyright">
-                &copy; 2016 <a href="http://www.creative-tim.com">Creative Tim</a>, made with love
+                &copy; 2020 <a href="#">DeedScan</a>
             </div>
         </div>
     </footer>
