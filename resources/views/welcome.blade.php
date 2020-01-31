@@ -79,14 +79,9 @@
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
-                            <i class="fa fa-apple"></i> Appstore
+                            <i class="fa fa-android"></i> Download
                         </button>
-                        <button class="btn btn-simple btn-neutral">
-                            <i class="fa fa-android"></i>
-                        </button>
-                        <button class="btn btn-simple btn-neutral">
-                            <i class="fa fa-windows"></i>
-                        </button>
+
                     </div>
                 </div>
                 <div class="col-md-5  hidden-xs">
