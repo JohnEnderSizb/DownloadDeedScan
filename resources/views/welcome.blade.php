@@ -61,7 +61,7 @@
 <div class="wrapper">
     <div class="parallax filter-gradient orange" data-color="orange">
         <div class="parallax-background">
-            <img class="parallax-background-image" src="assets/img/showcases/showcase-1/bg.jpg">
+            <img class="parallax-background-image" src="gavel.jpg">
         </div>
         <div class= "container">
             <div class="row">
