@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-md-5  hidden-xs">
                     <div class="parallax-image">
-                        <img class="phone" src="assets/img/showcases/showcase-1/iphone.png"/>
+                        <img class="phone" src="portrait.png" style="height: 70vh; width: 35vw"/>
                     </div>
                 </div>
             </div>
