@@ -88,20 +88,13 @@
     </div>
     <div class="section section-gray section-clients">
         <div class="container text-center">
-            <h4 class="header-text">They were the first to go PlayIT</h4>
-            <p>
-                Build customer confidence by listing your users! Anyone who has used your service and has been pleased with it should have a place here! From Fortune 500 to start-ups, all your app enthusiasts will be glad to be featured in this section. Moreover, users will feel confident seing someone vouching for your product!<br>
-            </p>
-            <div class="logos">
-                <ul class="list-unstyled">
-                    <li ><img src="assets/img/logos/adobe.png"/></li>
-                    <li ><img src="assets/img/logos/zendesk.png"/></li>
-                    <li ><img src="assets/img/logos/ebay.png"/></i>
-                    <li ><img src="assets/img/logos/evernote.png"/></li>
-                    <li ><img src="assets/img/logos/airbnb.png"/></li>
-                    <li ><img src="assets/img/logos/zappos.png"/></li>
+            <p>DeedScan- this is an application created to improve the registration of transfers in immovable property. The system was created to connect the major shareholders in the registration process particularly:</p>
+                <ul style="list-style-type: disc">
+                    <li>The transferor (owner of the property)</li>
+                    <li>The conveyancer</li>
+                    <li>The registrar</li>
+                    <li>The ministry responsible for land transfer</li>
                 </ul>
-            </div>
         </div>
     </div>
     <div class="section section-presentation">
