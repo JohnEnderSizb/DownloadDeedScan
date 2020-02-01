@@ -10,7 +10,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -157,7 +157,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580462010855</updated>
-      <workItem from="1580462037448" duration="4373000" />
+      <workItem from="1580462037448" duration="5021000" />
+      <workItem from="1580563522956" duration="379000" />
     </task>
     <servers />
   </component>
@@ -181,9 +182,10 @@
       <screen x="23" y="0" width="1343" height="768" />
     </state>
     <state width="1301" height="185" key="GridCell.Tab.0.right/23.0.1343.768@23.0.1343.768" timestamp="1580462669470" />
-    <state x="363" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580462055634">
+    <state x="363" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580563523141">
       <screen x="23" y="0" width="1343" height="768" />
     </state>
+    <state x="363" y="211" key="com.intellij.ide.util.TipDialog/23.0.1343.768/1366.0.1920.1080@23.0.1343.768" timestamp="1580563523141" />
     <state x="363" y="211" key="com.intellij.ide.util.TipDialog/23.0.1343.768@23.0.1343.768" timestamp="1580462055634" />
   </component>
 </project>

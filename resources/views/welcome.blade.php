@@ -53,12 +53,6 @@
                         Tweet
                     </a>
                 </li>
-                <li>
-                    <a href="#">
-                        <i class="fa fa-pinterest"></i>
-                        Pin
-                    </a>
-                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
