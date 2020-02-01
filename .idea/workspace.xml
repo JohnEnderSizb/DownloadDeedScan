@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63f26391-ee8d-4949-9e6d-85640c787539" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="63f26391-ee8d-4949-9e6d-85640c787539" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580462010855</updated>
       <workItem from="1580462037448" duration="5021000" />
-      <workItem from="1580563522956" duration="3479000" />
+      <workItem from="1580563522956" duration="3903000" />
     </task>
     <servers />
   </component>
@@ -184,10 +181,10 @@
       <screen x="23" y="0" width="1343" height="768" />
     </state>
     <state width="1301" height="185" key="GridCell.Tab.0.right/23.0.1343.768@23.0.1343.768" timestamp="1580462669470" />
-    <state x="363" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580563523141">
+    <state x="363" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1580569844366">
       <screen x="23" y="0" width="1343" height="768" />
     </state>
-    <state x="363" y="211" key="com.intellij.ide.util.TipDialog/23.0.1343.768/1366.0.1920.1080@23.0.1343.768" timestamp="1580563523141" />
+    <state x="363" y="211" key="com.intellij.ide.util.TipDialog/23.0.1343.768/1366.0.1920.1080@23.0.1343.768" timestamp="1580569844366" />
     <state x="363" y="211" key="com.intellij.ide.util.TipDialog/23.0.1343.768@23.0.1343.768" timestamp="1580462055634" />
   </component>
 </project>
