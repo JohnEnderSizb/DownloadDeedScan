@@ -27,7 +27,7 @@
                 <span class="icon-bar bar2"></span>
                 <span class="icon-bar bar3"></span>
             </button>
-            <a href="http://www.creative-tim.com">
+            <a href="#">
                 <div class="logo-container">
                     <div class="logo">
                         <img src="logo.png" alt="DeedScan Logo">
@@ -276,3 +276,55 @@
 <script src="assets/js/bootstrap.js" type="text/javascript"></script>
 <script src="assets/js/awesome-landing-page.js" type="text/javascript"></script>
 </html>
+
+<!--
+DeedScan
+
+The registries office in our country forms an essential part to property transfer transactions.
+
+Registration in itself is the backbone of the right to ownership
+
+Through research, our team managed to identify the problems that plague registration process which result in the process being lengthy, tedious, frustrating and in some cases it leads to expensive and lengthy litigation.
+
+Problems identified
+
+1. Tittle Deed registration.
+A tittle deed is a document that proves ownership in immovable property. For a deed to be deemed as authentic it needs to have the following
+a) the registrar's endorsement, signature and seal
+b) the signature of the conveyancer and the name of his/her law firm
+
+1. Security Breaches to occur
+Over the years courts have dealt with matters where ownership in immovable property is contested. Litigation in these cases is expensive and stretches for years and in some cases litigants meet their death before the matter is finalised.
+The cause of such disputes include but are not limited to the following:
+i)a conveyancer's signature being forged
+ii) bogus conveyancer's
+iii)forgery of tittle deed
+owner's signature by fraudsters on all documents that are lodged with the registry
+2. Excessive amount of time until completion of transfer
+In theory, once documents for the transfer are lodged with the registrar it is often alleged that they become due for collection in 3 working days. In reality however the process is longer and can stretch to 15 days. As a result the conveyancer has to check with the registrar on whether the papers are ready.
+
+The Solution
+DeedScan- this is an application created to improve the registration of transfers in immovable property. The system was created to connect the major shareholders in the registration process particularly :
+-The transferor (owner of the property)
+-the conveyancer
+-the registrar
+-the ministry responsible for land transfer
+
+How does DeedScan work?
+
+1. The conveyancer logs into the server and enters the details of the transfer namely:
+the;
+-name of the conveyancer and name of lawfirm
+-name of person to receive   transfer of the deed and phone number
+-a deed number (initials of the law firm,number and year e.g //rs/9/2020//)
+2.Upon entering the details, the code will be granted within ten minutes and this will be printed on each and every page of the tittle deed
+3. Conveyancer will then lodge the documents with the registrar.
+4. Once the registrar has completed the registration of the document he/she shall scan the qr code and this will alert the law firm that the documents are ready for collection.
+
+NB all this information will be saved in the DeedScan system which will then be submitted weekly to the ministry to inspect the performance of the deeds registry
+Do also note that rejected documents will not be scanned thus a physical check will have to be conducted
+
+What then will happen where the property has to be transferred?
+-Before transfer but after the completion of the transfer documents, the conveyancer through email or text message communicates with our team on the transfer that they want made.
+-Our team will then communicate with the registrar who in turn will scan the document. Upon scanning a notification is given to the conveyancer who transferred the property in the first place and to the transferor.
+-->
