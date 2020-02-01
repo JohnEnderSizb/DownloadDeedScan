@@ -235,12 +235,11 @@
     <div class="section section-no-padding">
         <div class="parallax filter-gradient orange" data-color="orange">
             <div class="parallax-background">
-                <img class ="parallax-background-image flipped" src="assets/img/showcases/showcase-1/bg2.jpg">
+                <img class ="parallax-background-image flipped" src="bgtwo.jpg">
             </div>
             <div class="info">
-                <h1>Download this landing page for free!</h1>
-                <p>Beautiful multipurpose bootstrap landing page.</p>
-                <a href="http://www.creative-tim.com/product/awesome-landing-page" class="btn btn-neutral btn-lg btn-fill">DOWNLOAD</a>
+                <h1>Download DeedScan for free!</h1>
+                <a href="#" class="btn btn-neutral btn-lg btn-fill">DOWNLOAD</a>
             </div>
         </div>
     </div>
@@ -261,9 +260,6 @@
                 </a>
                 <a class="btn btn-social btn-twitter btn-simple">
                     <i class="fa fa-twitter"></i>
-                </a>
-                <a class="btn btn-social btn-pinterest btn-simple">
-                    <i class="fa fa-pinterest"></i>
                 </a>
             </div>
             <div class="copyright">
