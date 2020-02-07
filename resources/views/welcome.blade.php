@@ -70,6 +70,7 @@
                         <h2>DeedScan</h2>
                         <br>
                         <h5>Merging the law with the future.</h5>
+                        <a href="publish.zip">GO</a>
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
@@ -88,6 +89,7 @@
     </div>
     <div class="section section-gray section-clients">
         <div class="container text-center">
+            <h4 class="header-text">About DeedScan</h4>
             <p>DeedScan- this is an application created to improve the registration of transfers in immovable property. The system was created to connect the major shareholders in the registration process particularly:</p>
                 <ul style="list-style-type: disc">
                     <li>The transferor (owner of the property)</li>
@@ -109,7 +111,7 @@
                     </div>
                 </div>
                 <div class="col-md-5 col-md-offset-1 hidden-xs">
-                    <img src="assets/img/showcases/showcase-1/iphones.png"/ style="top:-50px">
+                    <img src="assets/img/showcases/showcase-1/iphones.png" style="top:-50px">
                 </div>
             </div>
         </div>
