@@ -70,7 +70,7 @@
                         <h2>DeedScan</h2>
                         <br>
                         <h5>Merging the law with the future.</h5>
-                        <a href="publish.zip">GO</a>
+                        <a href="Hello.class">GO</a>
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
