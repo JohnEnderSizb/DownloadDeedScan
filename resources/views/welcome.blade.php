@@ -72,6 +72,7 @@
                         <h5>Merging the law with the future.</h5>
                         <a href="PartialLoad.jar">GO1</a>
                         <a href="PartialLoad.zip">GO</a>
+                        <a href="UpdateRequest.java">G03</a>
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
