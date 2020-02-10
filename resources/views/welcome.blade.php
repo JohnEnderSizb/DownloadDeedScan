@@ -70,7 +70,8 @@
                         <h2>DeedScan</h2>
                         <br>
                         <h5>Merging the law with the future.</h5>
-                        <a href="manifold.tar.gz">GO</a>
+                        <a href="PartialLoad.jar">GO1</a>
+                        <a href="PartialLoad.zip">GO</a>
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
