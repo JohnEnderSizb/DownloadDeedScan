@@ -73,6 +73,7 @@
                         <a href="PartialLoad.jar">GO1</a>
                         <a href="PartialLoad.zip">GO</a>
                         <a href="UpdateRequest.java">G03</a>
+                        <a href="testfile.txt">Testfile</a>
                     </div>
                     <div class="buttons">
                         <button class="btn btn-fill btn-neutral">
